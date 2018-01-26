@@ -1,0 +1,15 @@
+body{
+  background-color: red;
+  color: #fff;
+}
+#img {
+  width: 750px;
+  height: 1201px;
+  background-image: url("../images/2.jpg");
+  transform: rotate(45deg);
+}
+#asdf{
+  width: 20px;
+  background-color: #000;
+  height: 30px;
+}
